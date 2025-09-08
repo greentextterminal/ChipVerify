@@ -1,2 +1,2 @@
 # ChipVerify
-A repo containing my solutions to problems found on ChipVerify (https://www.chipverify.com/verilog/verilog-interview-questions-set-1#write-a-verilog-code-for-synchronous-and-asynchronous-reset)
+A repo containing my solutions to problems found on ChipVerify (https://www.chipverify.com/verilog/verilog-interview-questions-set-1)
