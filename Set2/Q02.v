@@ -1,3 +1,5 @@
+// What do you understand by continuous assignment?
+
 // Continuous Assignment
 // This is essentially continuously driving a wire with signals from some logic such that it instantly 
 // updates to refelct the logically "processed" inputs. Typically reserved for combinational logic.
